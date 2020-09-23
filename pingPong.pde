@@ -1,7 +1,4 @@
 /*
- COMP 1010 Fall 2019
- Assignment 2 - Units 1-11 - Table Tennis
- Sample Solution
  
  To play: Control the left paddle with the UP and DOWN keys.
  Control the right paddle with the left and right mouse buttons.
